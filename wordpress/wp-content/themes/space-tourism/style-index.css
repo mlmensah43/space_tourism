@@ -1,0 +1,53 @@
+h1{
+    font-size: 150px;
+    font-family: 'Bellefair', serif;
+    color: FFFFFF;
+}
+
+h2{
+    font-size: 100px;
+    font-family: 'Bellefair', serif;
+    color: FFFFFF;
+}
+
+h3{
+    font-size: 56px;
+    font-family: 'Bellefair', serif;
+    color: FFFFFF;
+}
+
+h4{
+    font-size: 32px;
+    font-family: 'Bellefair', serif;
+    color: FFFFFF;
+}
+
+h5{
+    font-size: 28px;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #D0D6F9;
+}
+
+.subheading-one{
+    font-size: 28px;
+    font-family: 'Bellefair', serif;
+    color: FFFFFF;
+}
+
+.subheading-two{
+    font-size: 14px;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: FFFFFF;
+    letter-spacing: 2.35px;
+}
+
+.nav-text{
+    font-size: 16px;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: FFFFFF;
+    letter-spacing: 2.7px;
+}
+
+.body{
+    color: FFFFFF;
+}
